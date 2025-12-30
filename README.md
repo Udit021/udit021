@@ -17,7 +17,6 @@
 - Practicing python programmig
 - Practicing C Programming
 - Practicing frontend wed dev
-- 
 
 
 ---
