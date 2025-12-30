@@ -16,7 +16,8 @@
 - File Encryption and Decryption tool using C language
 - Practicing python programmig
 - Practicing C Programming
-- MindVault — Emotional Secret Diary using Python
+- Practicing frontend wed dev
+- 
 
 
 ---
